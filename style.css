@@ -87,7 +87,7 @@ a:active {
 
 nav li a:focus, nav li a:hover {
   color: white;
-  background: #a66;
+  background: black;
 }
 
 nav li a:active {
