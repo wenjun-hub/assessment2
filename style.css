@@ -45,8 +45,8 @@ header, footer {
 /* WRITE YOUR CODE BELOW HERE */
 
 body {
-font:serif site-wide;
-font-size: 10px;
+font:serif;
+font-size: 14px;
 line-height: 1.5;
 }
 
