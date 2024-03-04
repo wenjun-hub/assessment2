@@ -43,3 +43,19 @@ header, footer {
 }
 
 /* WRITE YOUR CODE BELOW HERE */
+
+body{
+font:serif site-wide;
+font-size: 10px;
+line-height: 1.5;
+}
+
+header{
+font:sans-serif;
+ text-align: center; 
+  letter-spacing: 1px;
+}
+
+h2 + p  {
+text-indent: 20px;
+}
