@@ -45,7 +45,8 @@ header, footer {
 /* WRITE YOUR CODE BELOW HERE */
 
 body {
-font:serif;
+
+font-family: "Times New Roman", Times, serif;
 font-size: 14px;
 line-height: 1.5;
 }
@@ -82,4 +83,14 @@ a:hover {
 a:active {
   background: #6900ff;
   color: #cdfeaa;
+}
+
+nav li a:focus, nav li a:hover {
+  color: white;
+  background: #a66;
+}
+
+nav li a:active {
+  color: white;
+  background: black;
 }
