@@ -51,7 +51,7 @@ line-height: 1.5;
 }
 
 header {
-font:sans-serif;
+font-family: Arial, Helvetica, sans-serif;
 text-align: center; 
 letter-spacing: 1px;
 }
